@@ -3,7 +3,7 @@
 # Hi there👋🏻 I'm BoraKim, Backend Developer.🦄
 
 Welcome to my github page. :) <br>
-You can see my [__resume__ (Click)]()
+You can see my [__resume__ (Click)]((https://boradol.github.io/))
 
 <h2>📍 My motto</h2>
 
