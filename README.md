@@ -1,19 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=DCD3ED&height=200&section=header&text=🌈Bora&fontSize=60&fontAlign=45&fontAlignY=42&desc=Backend-Developer&descSize=25&descAlign=54&animation=fadeIn)
 
-<!--
-**boradol/boradol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi !!!🦄 I'm BoraKim, Backend Developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my github page:) <br>
+- 💯 I major in __Math-Education__.
+- 💻 Backend developer with __2.3 years__ of experience.
+- 🧐 I'm interested in __OOP__!
 
 <h2>📚 My tech stack 📚</h2>
 
@@ -29,7 +21,6 @@ Here are some ideas to get you started:
 <h3>[Infra Skill]</h3>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -44,3 +35,20 @@ Here are some ideas to get you started:
 <h3>[Developer Environment]</h3>
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) 
+
+
+
+<!--
+**boradol/boradol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
